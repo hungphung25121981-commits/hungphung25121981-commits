@@ -1,4 +1,4 @@
-## heluuuu <img width="250" height="280" alt="despicablememinionsGIF" src="https://github.com/user-attachments/assets/b80a9149-6ebe-4876-9868-84c63c461e14" />
+## heluuuu <img width="180" height="200" alt="despicablememinionsGIF" src="https://github.com/user-attachments/assets/b80a9149-6ebe-4876-9868-84c63c461e14" />
 
 <img src="koi/koi.gif" width="512" alt="My koi" />
 <!--
