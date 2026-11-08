@@ -1,4 +1,5 @@
-## Hi there 👋
+## heluuuu <img width="250" height="280" alt="despicablememinionsGIF" src="https://github.com/user-attachments/assets/b80a9149-6ebe-4876-9868-84c63c461e14" />
+
 <img src="koi/koi.gif" width="512" alt="My koi" />
 <!--
 **hungphung25121981-commits/hungphung25121981-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
